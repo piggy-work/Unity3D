@@ -9,6 +9,6 @@
 
 ----
 * 教學</p>
-[自適應UGUI](https://godstamps.blogspot.com/2015/04/unityugui.html)
+[自適應UGUI](https://godstamps.blogspot.com/2015/04/unityugui.html)</P>
 [WidowEditor](https://dotblogs.com.tw/coolgamedevnote/2018/02/27/122317)
 ----
